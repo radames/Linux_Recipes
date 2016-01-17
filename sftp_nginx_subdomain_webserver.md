@@ -1,5 +1,8 @@
 ##Nginx users subdomain webserver and SFTP with chrooted, users restricted to their home folder
 
+Every user will have a WWW folder and their website will be the username as subdomain. i.e [user1.yourdomain.com](), [user2.yourdomain.com]()...
+
+
 ###Nginx
 
 Nginx working with subdomain based on the users ``\home\USER\WWW`` folders
